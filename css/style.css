@@ -13,6 +13,7 @@ header{
     display: flex;
     gap: 1rem;
     list-style: none;
+
 }
 .menu a{
     color: #000;
