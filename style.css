@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: crimson;
+
+}
+.menu{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+.menu a{
+    color: #000;
+}
